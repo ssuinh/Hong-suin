@@ -1,2 +1,3 @@
-hi
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-suin&show_icons=true&theme=radical) 
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=hi👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
